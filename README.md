@@ -1,2 +1,2 @@
 # First-time-with-Git
-Some python basics
+Some very basic python and git exercises
